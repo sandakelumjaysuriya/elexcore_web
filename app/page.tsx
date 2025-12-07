@@ -14,7 +14,7 @@ import maleAvatar from "@/public/maleAvatar.png";
 const features = [
   {
     icon: Zap,
-    title: 'Fast Delivery',
+    title: 'Fast xxx',
     description: 'Agile development with quick turnaround times',
   },
   {
